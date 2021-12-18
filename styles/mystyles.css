@@ -1,0 +1,31 @@
+.left{float: left}
+.center{text-align: center}
+.right {float: right}
+
+.resumelistheaders{font-weight: bold}
+.normaltext{font-weight: normal}
+
+
+.bg{background-image: url(../images/offwhite.jpeg);
+background-position: bottom right;
+background-repeat: repeat}
+
+.bold {font-weight: bold}
+
+.boldunderleft {font-weight: bold;
+text-decoration: underline;
+text-align: left}
+
+.boldunderright {font-weight: bold;
+text-decoration: underline;
+text-align: right}
+
+.boldundercenter {font-weight: bold;
+text-decoration: underline;
+text-align: center}
+
+.italic{font-style: italic;
+font-size: 18}
+
+
+
